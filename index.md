@@ -27,6 +27,8 @@ Responsibilities:
 - 4) Backup tasks include maintaining the TOKOPEDIA Order API and managing the Shopify Order API
 - 5) Creating documents for app testing feedback and 3rd party API integration documentation, such as the ShopeePay MPM payment method API
 
+<div style="page-break-after: always;"></div>
+
 `Nov 2020 - Dec 2021`
 __Product Specialist__, Cashlez
 
@@ -37,11 +39,9 @@ Responsibilities:
 - 2) Maintain API integration on OVO QRIS payment implementation
 - 3) Maintain integration with the UOB x Enterpryze ERP system
 
-<div style="page-break-after: always;"></div>
-
 ## Education
 `2016 - 2020`
-__Bina Nusantara University, Jakarta__.
+__Bina Nusantara University, Jakarta__
 
 Bachelor's degree, Information System
 
