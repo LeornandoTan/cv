@@ -11,17 +11,11 @@ Product Specialist.
 | <a href="https://www.linkedin.com/in/leornando-putra/">linkedin.com/in/leornando-putra</a>
 </div>
 
-
 ## Profile Summary
-
-
 Your friendly tech pals with a strong passion and hobby for technology. Since 2019, I have worked in Quality Assurance (QA), developing my skills from manual testing to automated testing with Apache JMeter and Katalon Studio. I began to focus on working as a product specialist in 2021, and since then, I have worked in two different industries.
 
-
 ## Professional Experience
-
 `Jan 2022 - Now`
-
 __Product Specialist__, J&T Express
 
 Part of the team in charge of developing external products and integrating APIs. We provide the customer app, website, API documentation for clients, and API support for major e-commerce platforms.
@@ -33,12 +27,7 @@ Responsibilities:
 - 4) Backup tasks include maintaining the TOKOPEDIA Order API and managing the Shopify Order API
 - 5) Creating documents for app testing feedback and 3rd party API integration documentation, such as the ShopeePay MPM payment method API
 
-
-<div style="page-break-after: always;"></div>
-
-
 `Nov 2020 - Dec 2021`
-
 __Product Specialist__, Cashlez
 
 Part of the team responsible for developing external products for clients and integrating APIs with online payment services. We provide the client with a POS app and API documentation for an online payment services provider.
@@ -48,19 +37,15 @@ Responsibilities:
 - 2) Maintain API integration on OVO QRIS payment implementation
 - 3) Maintain integration with the UOB x Enterpryze ERP system
 
-
 <div style="page-break-after: always;"></div>
 
-
 ## Education
-
 `2016 - 2020`
 __Bina Nusantara University, Jakarta__.
 
 Bachelor's degree, Information System
 
 Taking E-Business specialization. Graduated in the 8th semester with a 3.4 out of 4.0 GPA
-
 
 ## Language
 __Indonesian__ - Native proficiency
