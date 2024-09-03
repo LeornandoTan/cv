@@ -12,7 +12,7 @@ Product Specialist.
 </div>
 
 ## Profile Summary
-Your friendly tech pals with a strong passion and hobby for technology. Since 2019, I have worked in Quality Assurance (QA), developing my skills from manual testing to automated testing with Apache JMeter and Katalon Studio. I began to focus on working as a product specialist in 2021, and since then, I have worked in two different industries.
+Your friendly tech friends with a strong enthusiasm and hobby for gadgets. I've been employed as a product specialist since 2021, where I've gained experience and knowledge by assisting with client integration and developing mobile apps. Additionally, I have experience working in the payment and logistics businesses.
 
 ## Professional Experience
 `Jan 2022 - Now`
@@ -21,8 +21,8 @@ __Product Specialist__, J&T Express
 Part of the team in charge of developing external products and integrating APIs. We provide the customer app, website, API documentation for clients, and API support for major e-commerce platforms.
 
 Responsibilities:
-- 1) Manage the app on the Shopify platform for a variety of clients such as Zaskia Sungkar, Howel and Co, Sub Jersey, and many more (*Around ±40 clients)
-- 2) Manage the customer app that has been published on the Google Play Store, Apple App Store, and HUAWEI AppGallery
+- 1) Manage the app on the Shopify platform for a variety of clients such as Zaskia Sungkar, Howel and Co, Sub Jersey, and many more (*Around ±30 clients)
+- 2) Manage and develop the customer app released on the Google Play Store, Apple App Store, or HUAWEI AppGallery
 - 3) Maintain the internal product app module menu
 - 4) Backup tasks include maintaining the TOKOPEDIA Order API and managing the Shopify Order API
 - 5) Creating documents for app testing feedback and 3rd party API integration documentation, such as the ShopeePay MPM payment method API
@@ -50,10 +50,10 @@ Taking E-Business specialization. Graduated in the 8th semester with a 3.4 out o
 ## Language
 __Indonesian__ - Native proficiency
 
-__English__ - Limited working proficiency
+__English__ - Intermediate proficiency
 
 __Chinese__ - Elementary proficiency
 
 
 <!-- ### Footer
-Last updated: Jan 2024 -->
+Last updated: Sep 2024 -->
