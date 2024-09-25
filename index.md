@@ -15,7 +15,7 @@ Product Specialist.
 Your friendly tech friends with a strong enthusiasm and hobby for gadgets. I've been employed as a product specialist since 2021, where I've gained experience and knowledge by assisting with client integration and developing mobile apps. Additionally, I have experience working in the payment and logistics businesses.
 
 ## Professional Experience
-`Jan 2022 - Now`
+`Jan 2022 - Sep 2024`
 __Product Specialist__, J&T Express
 
 Part of the team in charge of developing external products and integrating APIs. We provide the customer app, website, API documentation for clients, and API support for major e-commerce platforms.
