@@ -55,9 +55,9 @@ Specialization in E-Business. Graduated in the 8th semester with a 3.4 out of 4.
 
 
 ## Languages
-__Indonesian__ — Native proficiency
-__English__ — Professional working proficiency
-__German__ — Currently learning (Pre-A1)
+- __Indonesian__ — Native proficiency
+- __English__ — Professional working proficiency
+- __German__ — Currently learning (Pre-A1)
 
 
 <!-- ### Footer
