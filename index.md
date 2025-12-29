@@ -61,4 +61,4 @@ __German__ — Currently learning (Pre-A1)
 
 
 <!-- ### Footer
-Last updated: Dec 2025 --
+Last updated: Dec 2025 -->
