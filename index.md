@@ -49,8 +49,9 @@ Specialization in E-Business. Graduated in the 8th semester with a 3.4 out of 4.
 
 ## Activities
 ### Personal Product Logbook
-`Oct 2025 - Present`
-[**Maintaining a personal logbook documenting preference-based reviews with indicative scoring of wireless audio products.**](https://tinyurl.com/wirelessbuddy-logbook)
+`2025`
+[**Maintaining a personal product review logbook.**](https://tinyurl.com/wirelessbuddy-logbook)
+
 - Reviewed and documented **9 TWS products in 2025**, using relative, preference-based scoring to compare sound characteristics, user experience, and perceived value.
 
 
