@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: CV - Leornando Primadala Putra
+title: Leornando Primadala Putra
 ---
 # Leornando Primadala Putra
 Product Specialist | Audio & Consumer Tech
 
 <div id="webaddress">
-Batam, Indonesia 
+<text>Batam, Indonesia</text>
 | <a href="mailto:tanleowork@gmail.com">tanleowork@gmail.com</a>
 | <a href="https://www.linkedin.com/in/leornando-putra/">Linkedin</a>
 </div>
