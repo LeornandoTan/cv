@@ -1,65 +1,84 @@
 ---
 layout: cv
-title: Leornando Primadala Putra
+title: CV — Leornando Primadala Putra
 ---
 # Leornando Primadala Putra
-Product Owner
+Product Specialist | Audio & Consumer Tech
 
 <div id="webaddress">
-<text>Batam, Indonesia</text>
+Batam, Indonesia
 | <a href="mailto:tanleowork@gmail.com">tanleowork@gmail.com</a>
-| <a href="https://www.linkedin.com/in/leornando-putra/">linkedin.com/in/leornando-putra</a>
+| <a href="https://www.linkedin.com/in/leornando-putra/">Linkedin</a>
 </div>
 
 
 ## Profile Summary
 
-Detail-oriented Product Owner with experience in coordinating cross-department projects, managing application rollouts, and refining processes to improve efficiency. Skilled in gathering requirements, translating them into clear technical specifications, and ensuring smooth implementation across the product lifecycle. Adept at working with diverse teams, maintaining accurate documentation, and adapting quickly to new challenges.
+Product specialist with a strong interest in consumer technology, especially audio products and real-world user experience.
+
+Experienced in explaining technical features in a simple and practical way, helping users understand how a product actually performs in daily use.
+
+I focus on how products actually feel in real life, not just how they look on paper.
 
 
-## Work Experience
+## Key Skills
+
+- Audio Product Review (User Experience Focus)
+- Tech Content Writing & Product Explanation
+- Product Positioning & User Insight
+- Consumer Tech (Audio, Mobile, Gadgets)
+- Usability & Experience Evaluation
+- Requirements Analysis & Documentation
+- Cross-functional Collaboration
+
+
+## Professional Experience
 
 `Jun 2025 - Sep 2025`
-PT. Rumah Gadai Kita, __Legal & Social Media__
-- Assisted in legal documentation processes and handled administrative tasks to ensure compliance and accurate records.
-- Managed company social media content and scheduling to strengthen brand presence and engagement.
+PT. Rumah Gadai Kita — __Legal & Social Media Staff__
+- Managed legal documentation to ensure accuracy and compliance
+- Planned and scheduled social media content to improve engagement and visibility
 
 `Jan 2022 - Sep 2024`
-J&T Express, __Product Owner__
-- Gathered and translated requirements from marketing, business development, and operations teams into clear, actionable specifications for application development.
-- Coordinated with cross-functional teams to plan and execute smooth product rollouts on schedule.
-- Monitored post-launch performance and recommended improvements for better efficiency and user experience.
+J&T Express — __Product Owner__
+- Translated business and technical requirements into clear, user-focused product documentation
+- Worked closely with marketing, operations, and business teams to ensure features aligned with real user needs
+- Coordinated product rollouts and kept timelines on track across teams
+- Reviewed product performance after launch and proposed improvements to enhance usability and overall user experience
 
 `Nov 2020 - Dec 2021`
-Cashlez, __Product Specialist__
-- Collected and refined requirements from various departments to create precise development specifications.
-- Collaborated with teams to prioritize features and support timely product updates.
-- Reviewed post-release results and suggested enhancements for continuous improvement.
+Cashlez — __Product Specialist__
+- Gathered input from multiple teams and translated it into clear product requirements
+- Supported product development and helped prioritize features based on user and business needs
+- Evaluated product performance and proposed improvements to enhance usability
  
+
+## Independent Work
+
+`2025 - Present`
+__Audio Product Review & User Experience Analysis__
+
+Portfolio (Audio Product Review Logbook – user experience focused): <a href="https://tinyurl.com/tonlablogbook">tinyurl.com/tonlablogbook</a>
+
+- Reviewed 12+ TWS products with a focus on real-world listening experience, comfort, and daily usability
+- Described sound based on user perception rather than technical measurements
+- Compared products across different usage scenarios (daily use, long listening sessions, casual listening)
+- Wrote clear, user-friendly insights to help users understand which product best fits their needs
+
 
 ## Education
 
 `2016 - 2020`
 __Bina Nusantara University, Jakarta__
 
-Bachelor’s degree, Information Systems
-
-Specialization in E-Business. Graduated in the 8th semester with a 3.4 out of 4.0 GPA
-
-
-## Activities
-### Personal Product Logbook
-`2025`
-[**Maintaining a personal product review logbook.**](https://tinyurl.com/wirelessbuddy-logbook)
-
-- Reviewed and documented **9 TWS products in 2025**, using relative, preference-based scoring to compare sound characteristics, user experience, and perceived value.
+Bachelor of Information Systems, GPA: **3.4** / 4.0
 
 
 ## Languages
-- __Indonesian__ — Native proficiency
-- __English__ — Professional working proficiency
-- __German__ — Currently learning (Pre-A1)
+- __Indonesian__ — Native
+- __English__ — Professional Working Proficiency
+- __German__ — Basic (Pre-A1)
 
 
 <!-- ### Footer
-Last updated: Dec 2025 -->
+Last updated: Apr 2026 -->
