@@ -7,7 +7,7 @@ Product Specialist | Audio & Consumer Tech
 
 <div id="webaddress">
 <text>Batam, Indonesia</text>
-| <a href="mailto:tanleowork@gmail.com">tanleowork@gmail.com</a>
+<a href="mailto:tanleowork@gmail.com">tanleowork@gmail.com</a>
 | <a href="https://www.linkedin.com/in/leornando-putra/">Linkedin</a>
 </div>
 
