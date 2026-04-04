@@ -7,7 +7,7 @@ Product Specialist | Audio & Consumer Tech
 
 <div id="webaddress">
 <text>Batam, Indonesia</text>
-<a href="mailto:tanleowork@gmail.com">tanleowork@gmail.com</a>
+| <a href="mailto:tanleowork@gmail.com">tanleowork@gmail.com</a>
 | <a href="https://www.linkedin.com/in/leornando-putra/">Linkedin</a>
 </div>
 
@@ -36,11 +36,13 @@ I focus on how products actually feel in real life, not just how they look on pa
 
 `Jun 2025 - Sep 2025`
 PT. Rumah Gadai Kita — __Legal & Social Media Staff__
+
 - Managed legal documentation to ensure accuracy and compliance
 - Planned and scheduled social media content to improve engagement and visibility
 
 `Jan 2022 - Sep 2024`
 J&T Express — __Product Owner__
+
 - Translated business and technical requirements into clear, user-focused product documentation
 - Worked closely with marketing, operations, and business teams to ensure features aligned with real user needs
 - Coordinated product rollouts and kept timelines on track across teams
@@ -48,6 +50,7 @@ J&T Express — __Product Owner__
 
 `Nov 2020 - Dec 2021`
 Cashlez — __Product Specialist__
+
 - Gathered input from multiple teams and translated it into clear product requirements
 - Supported product development and helped prioritize features based on user and business needs
 - Evaluated product performance and proposed improvements to enhance usability
