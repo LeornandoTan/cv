@@ -14,22 +14,16 @@ Product Specialist | Audio & Consumer Tech
 
 ## Profile Summary
 
-Product specialist with a strong interest in consumer technology, especially audio products and real-world user experience.
-
-Experienced in explaining technical features in a simple and practical way, helping users understand how a product actually performs in daily use.
-
-I focus on how products actually feel in real life, not just how they look on paper.
+Product-focused professional with an interest in consumer technology, user experience, and product analysis. Enjoys evaluating products through real-world usage and translating observations into structured comparisons and practical insights.
 
 
 ## Key Skills
 
-- Audio Product Review (User Experience Focus)
-- Tech Content Writing & Product Explanation
-- Product Positioning & User Insight
-- Consumer Tech (Audio, Mobile, Gadgets)
-- Usability & Experience Evaluation
-- Requirements Analysis & Documentation
-- Cross-functional Collaboration
+- Product Evaluation
+- User Experience (UX) Analysis
+- Comparative Product Analysis
+- Product Documentation
+- Consumer Technology Research
 
 
 ## Professional Experience
@@ -59,14 +53,14 @@ Cashlez — __Product Specialist__
 ## Independent Work
 
 `2025 - Present`
-__Audio Product Review & User Experience Analysis__
+__Audio Product Evaluation & User Experience Analysis__
 
-Portfolio (Audio Product Review Logbook – user experience focused): <a href="https://tinyurl.com/tonlablogbook">tinyurl.com/tonlablogbook</a>
+Portfolio (Audio Product Evaluation Logbook – user experience focused): <a href="https://tinyurl.com/tonlablogbook">tinyurl.com/tonlablogbook</a>
 
-- Reviewed 12+ TWS products with a focus on real-world listening experience, comfort, and daily usability
-- Described sound based on user perception rather than technical measurements
-- Compared products across different usage scenarios (daily use, long listening sessions, casual listening)
-- Wrote clear, user-friendly insights to help users understand which product best fits their needs
+- Evaluated 15+ TWS products with a focus on real-world listening experience, comfort, and daily usability
+- Developed a personal evaluation framework covering sound characteristics, value assessment, product positioning, and user experience analysis
+- Evaluated products through daily real-world usage across different environments and listening situations
+- Maintained an ongoing product evaluation logbook for easier comparison and reference
 
 
 ## Education
