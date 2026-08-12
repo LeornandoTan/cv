@@ -28,12 +28,6 @@ Product-focused professional with an interest in consumer technology, user exper
 
 ## Professional Experience
 
-`Jun 2025 - Sep 2025`
-PT. Rumah Gadai Kita — __Legal & Social Media Staff__
-
-- Managed legal documentation to ensure accuracy and compliance
-- Planned and scheduled social media content to improve engagement and visibility
-
 `Jan 2022 - Sep 2024`
 J&T Express — __Product Owner__
 
@@ -57,7 +51,7 @@ __Audio Product Evaluation & User Experience Analysis__
 
 Portfolio (Audio Product Evaluation Logbook – user experience focused): <a href="https://tinyurl.com/tonlablogbook">tinyurl.com/tonlablogbook</a>
 
-- Evaluated 15+ TWS products with a focus on real-world listening experience, comfort, and daily usability
+- Evaluated 18+ True Wireless Stereo (TWS) earbud products with a focus on real-world listening experience, comfort, and daily usability
 - Developed a personal evaluation framework covering sound characteristics, value assessment, product positioning, and user experience analysis
 - Evaluated products through daily real-world usage across different environments and listening situations
 - Maintained an ongoing product evaluation logbook for easier comparison and reference
@@ -73,9 +67,9 @@ Bachelor of Information Systems, GPA: **3.4** / 4.0
 
 ## Languages
 - __Indonesian__ — Native
-- __English__ — Professional Working Proficiency
-- __German__ — Basic (Pre-A1)
+- __English__ — Limited Working Proficiency
+- __German__ — Basic (A1)
 
 
 <!-- ### Footer
-Last updated: Apr 2026 -->
+Last updated: Aug 2026 -->
