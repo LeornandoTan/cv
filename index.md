@@ -55,7 +55,7 @@ __Audio Product Evaluation & User Experience Analysis__
 
 Portfolio (Audio Product Evaluation Logbook – user experience focused): <a href="https://tinyurl.com/tonlablogbook">tinyurl.com/tonlablogbook</a>
 
-- Evaluated 18+ True Wireless Stereo (TWS) earbud products through real-world use, focusing on listening experience, comfort, and daily usability
+- Evaluated 20+ True Wireless Stereo (TWS) earbud products through real-world use, focusing on listening experience, comfort, and daily usability
 - Developed a personal evaluation framework covering sound characteristics, value assessment, product positioning, and user experience analysis
 - Tested products across different environments and listening situations to understand their real-world performance
 - Maintained an ongoing product evaluation logbook for comparison and reference
@@ -72,8 +72,7 @@ Bachelor of Information Systems, GPA: **3.4** / 4.0
 ## Languages
 - __Indonesian__ — Native
 - __English__ — Limited Working Proficiency
-- __German__ — Basic (A1)
 
 
 <!-- ### Footer
-Last updated: Sep 2026 -->
+Last updated: Nov 2026 -->
